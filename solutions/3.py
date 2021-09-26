@@ -17,7 +17,6 @@ def isPrime(n):
                 break
         else:
             return True
-
     else:
         return False
 
